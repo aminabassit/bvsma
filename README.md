@@ -214,7 +214,7 @@ The elliptic curve P192 can be replaced by P224 or P256 (substitute 192 by eithe
 ## References
 
 [[ 1 ]](https://arxiv.org/abs/2101.10631)
-[[ 2 ]](https://gitlab.utwente.nl/m7667012/helrclassifier)
+[[ 2 ]](https://github.com/aminabassit/helr-classifier)
 
 
 ## Bibtex Citation
