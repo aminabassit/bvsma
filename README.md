@@ -220,13 +220,14 @@ The elliptic curve P192 can be replaced by P224 or P256 (substitute 192 by eithe
 ## Bibtex Citation
 
 ```
-@misc{bassit2021biometric,
-      title={Biometric Verification Secure Against Malicious Adversaries}, 
-      author={Amina Bassit and Florian Hahn and Joep Peeters and Tom Kevenaar and Raymond N. J. Veldhuis and Andreas Peter},
-      year={2021},
-      eprint={2101.10631},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR}
+@article{bassit2021fast,
+  title={Fast and accurate likelihood ratio-based biometric verification secure against malicious adversaries},
+  author={Bassit, Amina and Hahn, Florian and Peeters, Joep and Kevenaar, Tom and Veldhuis, Raymond and Peter, Andreas},
+  journal={IEEE transactions on information forensics and security},
+  volume={16},
+  pages={5045--5060},
+  year={2021},
+  publisher={IEEE}
 }
 ```
 
